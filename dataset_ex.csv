@@ -1,0 +1,345 @@
+Text
+"###Patient: I am facing some issues in my breast.###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?###Patient: I am female, and I have breast lumps on my right breast.###Doctor: Do you had breast cancer in the past or you are a known carrier for any of the BRCA 1,BRCA         2,TP53,PTEN,MAP,STK11,PALB2 genetic abnormalities?###Patient: Yes.###Doctor: Breast Lump (Female) with significant PMHx/FHx. Please prioritise this referral as USC. "
+"###Patient: I am facing some issues in my breast.###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?###Patient: I am female and I have breast lumps on my right breast.###Doctor: Do you had breast cancer in the past or you are a known carrier for any of the BRCA 1,BRCA         2,TP53,PTEN,MAP,STK11,PALB2 genetic abnormalities?###Patient: No.###Doctor: How old are you?###Patient: I am 29.###Doctor: As you are less than 30 years, please prioritise this referral as URGENT. (If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing some issues in my breast.###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?###Patient: I am female and I have breast lumps on my right breast.###Doctor: Do you had breast cancer in the past or you are a known carrier for any of the BRCA 1,BRCA         2,TP53,PTEN,MAP,STK11,PALB2 genetic abnormalities?###Patient: No.###Doctor: How old are you?###Patient: I am 35.###Doctor: Have you had a NORMAL mammogram within the last 6 months?###Patient: yes.###Doctor: Please prioritise this referral as URGENT. (If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing some issues in my breast.###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?###Patient: I am female and I have breast lumps on my right breast.###Doctor: Do you had breast cancer in the past or you are a known carrier for any of the BRCA 1,BRCA ,PTEN,MAP,STK11,PALB2 genetic abnormalities?###Patient: No.###Doctor: How old are you?###Patient: I am 35.###Doctor: Have you had a NORMAL mammogram within the last 6 months?###Patient: No.###Doctor: Please prioritise this referral as USC. "
+"###Patient: I am facing some issues in my breast.
+###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?
+###Patient: I am male and I have breast lumps.
+###Doctor: Is the lump unilateral or bilateral?
+###Patient: Unilateral
+###Doctor: Do you have any history of these below criteria?
+?	Previous history of chest wall cancer / sarcoma, or melanoma
+?	1st or 2nd degree relative with breast/ovarian cancer <50
+?	Known carrier of the any of the following genetic abnormalities:
+o	BRCA 1
+o	BRCA 2
+o	TP53
+o	PTEN
+o	MAP
+o	STK11
+o	PALB2
+###Patient: yes.
+###Doctor: Please prioritise this referral as USC."
+"###Patient: I am facing some issues in my breast.
+###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?
+###Patient: I am male, and I have breast lumps.
+###Doctor: Is the lump unilateral or bilateral?
+###Patient: Unilateral
+###Doctor: Do you have any history of these below criteria?
+?	Previous history of chest wall cancer / sarcoma, or melanoma
+?	1st or 2nd degree relative with breast/ovarian cancer <50
+?	Known carrier of the any of the following genetic abnormalities:
+o	BRCA 1
+o	BRCA 2
+o	TP53
+o	PTEN
+o	MAP
+o	STK11
+o	PALB2
+###Patient: no.
+###Doctor: Do you prescribed/taking any of the below drugs/medications?
+?	ACE inhibitors
+?	Amiodarone
+?	Amphetamines
+?	Anabolic steroids
+?	Androgens
+?	Cimetidine
+?	Diazepam
+?	Domperidone
+?	Dutasteride
+?	Estrogens
+?	Excess alcohol
+?	Goserelin
+?	Haloperidol
+?	Heroin
+?	Human Growth Hormone
+?	Ketoconazole
+?	Lavender / Tea tree oil
+?	Marijuana
+?	Methadone
+?	Methotrexate
+?	Metronidazole
+?	Methyldopa
+?	Metoclopramide
+?	Omeprazole
+?	Phenothiazines
+?	Phenytoin
+?	Ranitidine
+?	Spironolactone
+###Patient: Yes.
+###Doctor: Please prioritise this referral as ROUTINE. 
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing some issues in my breast.
+###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?
+###Patient: I am male, and I have breast lumps.
+###Doctor: Is the lump unilateral or bilateral?
+###Patient: Unilateral
+###Doctor: Do you have any history of these below criteria?
+?	Previous history of chest wall cancer / sarcoma, or melanoma
+?	1st or 2nd degree relative with breast/ovarian cancer <50
+?	Known carrier of the any of the following genetic abnormalities:
+o	BRCA 1
+o	BRCA 2
+o	TP53
+o	PTEN
+o	MAP
+o	STK11
+o	PALB2
+###Patient: no.
+###Doctor: Do you prescribed/taking any of the below drugs/medications?
+?	ACE inhibitors
+?	Amiodarone
+?	Amphetamines
+?	Anabolic steroids
+?	Androgens
+?	Cimetidine
+?	Diazepam
+?	Domperidone
+?	Dutasteride
+?	Estrogens
+?	Excess alcohol
+?	Goserelin
+?	Haloperidol
+?	Heroin
+?	Human Growth Hormone
+?	Ketoconazole
+?	Lavender / Tea tree oil
+?	Marijuana
+?	Methadone
+?	Methotrexate
+?	Metronidazole
+?	Methyldopa
+?	Metoclopramide
+?	Omeprazole
+?	Phenothiazines
+?	Phenytoin
+?	Ranitidine
+?	Spironolactone
+###Patient: No.
+###Doctor: How old are you?
+###Patient: I am 50 years old.
+###Doctor: Please prioritise this referral as USC. "
+"###Patient: I am facing some issues in my breast.
+###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?
+###Patient: I am male, and I have breast lumps.
+###Doctor: Is the lump unilateral or bilateral?
+###Patient: Unilateral
+###Doctor: Do you have any history of these below criteria?
+?	Previous history of chest wall cancer / sarcoma, or melanoma
+?	1st or 2nd degree relative with breast/ovarian cancer <50
+?	Known carrier of the any of the following genetic abnormalities:
+o	BRCA 1
+o	BRCA 2
+o	TP53
+o	PTEN
+o	MAP
+o	STK11
+o	PALB2
+###Patient: no.
+###Doctor: Do you prescribed/taking any of the below drugs/medications?
+?	ACE inhibitors
+?	Amiodarone
+?	Amphetamines
+?	Anabolic steroids
+?	Androgens
+?	Cimetidine
+?	Diazepam
+?	Domperidone
+?	Dutasteride
+?	Estrogens
+?	Excess alcohol
+?	Goserelin
+?	Haloperidol
+?	Heroin
+?	Human Growth Hormone
+?	Ketoconazole
+?	Lavender / Tea tree oil
+?	Marijuana
+?	Methadone
+?	Methotrexate
+?	Metronidazole
+?	Methyldopa
+?	Metoclopramide
+?	Omeprazole
+?	Phenothiazines
+?	Phenytoin
+?	Ranitidine
+?	Spironolactone
+###Patient: No.
+###Doctor: How old are you?
+###Patient: I am 30 years old.
+###Doctor: Please prioritise this referral as ROUTINE. 
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing some issues in my breast.
+###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?
+###Patient: I am female and I have breast lumps on my right breast.
+###Doctor: Do you had breast cancer in the past or you are a known carrier for any of the BRCA 1,BRCA         2,TP53,PTEN,MAP,STK11,PALB2 genetic abnormalities?
+###Patient: No.
+###Doctor: How old are you?
+###Patient: I am 35
+###Doctor: Have you had a NORMAL mammogram within the last 6 months?
+###Patient: No.
+###Doctor: Please prioritise this referral as USC. "
+"###Patient: I am facing some issues in my breast.
+###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?
+###Patient: I am male, and I have Lump in Axilla.
+###Doctor: In addition to the lump in the axilla are there any breast symptoms?
+###Patient: yes.
+###Doctor: Please prioritise this referral as URGENT. 
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing some issues in my breast.
+###Doctor: Okay. Can you tell me your Gender? And What issues are you facing?
+###Patient: I am male, and I have Lump in Axilla.
+###Doctor: In addition to the lump in the axilla are there any breast symptoms?
+###Patient: no.
+###Doctor: ###Patients with an axillary lump and no breast symptoms can be referred directly for an axillary US scan and do not require referral via the breast clinic. Please direct your request for an US through the Health Board Radiology department. Request forms can be emailed to the following address - ABB.radiologyreferrals@wales.nhs.uk.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Nipple Rasho.
+###Doctor: Have you trialled a course of a topical emollient and steroid cream?
+###Patient: yes.
+###Doctor: how old are you?
+###Patient: I am 30.
+###Doctor: Please prioritise this referral as ROUTINE. When referring, if possible, please try to include a clinical photograph of the area in question.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Nipple Rasho.
+###Doctor: Have you trialled a course of a topical emollient and steroid cream?
+###Patient: yes.
+###Doctor: how old are you?
+###Patient: I am 65.
+###Doctor: Please prioritise this referral as USC. When referring, if possible, please try to include a clinical photograph of the area in question."
+"###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Nipple Rasho.
+###Doctor: Have you trialled a course of a topical emollient and steroid cream?
+###Patient: no.
+###Doctor: If you feel this is a clear and obvious case of Paget's disease of the nipple then please prioritise this referral as USC.
+If this is not the case please consider trialling a short (2 week) course of a topical emollient and steroid and review the ###Patient again. If the treatment fails to have any effect then please also prioritise this referral as USC. When referring, if possible, please try to include a clinical photograph of the area in question.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Blood-Stained Nipple Discharge
+###Doctor: Please prioritise this referral as USC. 
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Non-Blood-Stained Nipple Discharge
+###Doctor: Please prioritise this referral as ROUTINE. 
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Nipple Inversion with No lump
+###Doctor: How old are you:
+###Patient: 25
+###Doctor: Age is less than 50. Please prioritise this referral as ROUTINE. 
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Doctor: Hello. How can I help you
+###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Nipple Inversion with No lump
+###Doctor: How old are you:
+###Patient: 25
+###Doctor: Age is more than 50Please prioritise this referral as URGENT. 
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Doctor: Hello. How can I help you
+###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Gynaecomastia
+###Doctor: Prior to referral please ensure the following blood tests have been requested as per the ABS guidelines:
+?	9am Testosterone, Thyroid Function Tests, Liver Function Tests, ?-Fetoprotein, ·-Human Chorionic Gonadotrophin
+?	If Testosterone is abnormal: Luteinizing Hormone, Follicle Stimulating Hormone, Sex Hormone Binding Gloubulin, albumin, oestradiol, prolactin
+?	Testicular Ultrasound Scan if any of the following abnormal blood results are note###Doctor: raised ·HCG, raised ?-Fetoprotein
+
+?	A direct referral to Endocrinology may then be appropriate if the ###Patient has any abnormal endocrine (hormonal) levels
+?	A direct referral to Urology may then be appropriate if there are abnormal ·HCG or ?FP blood results or abnormal finding on testicular USS
+ Are you looking for surgerical treatment?
+###Patient: yes
+###Doctor: Do you meet the below criterias:
+?	The ###Patient has had symptoms for at least 2 years
+?	The ###Patient has grade 3 gynaecomastia (estimated excision volume of >100g)
+?	The is >18 years of age
+?	The ###Patient has a BMI of 18 - 25 Kg/M2
+###Patient: yes
+###Doctor: Please prioritise this referral as ROUTINE. 
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Gynaecomastia
+###Doctor: Prior to referral please ensure the following blood tests have been requested as per the ABS guidelines:
+?	9am Testosterone, Thyroid Function Tests, Liver Function Tests, ?-Fetoprotein, ·-Human Chorionic Gonadotrophin
+?	If Testosterone is abnormal: Luteinizing Hormone, Follicle Stimulating Hormone, Sex Hormone Binding Gloubulin, albumin, oestradiol, prolactin
+?	Testicular Ultrasound Scan if any of the following abnormal blood results are note###Doctor: raised ·HCG, raised ?-Fetoprotein
+
+?	A direct referral to Endocrinology may then be appropriate if the ###Patient has any abnormal endocrine (hormonal) levels
+?	A direct referral to Urology may then be appropriate if there are abnormal ·HCG or ?FP blood results or abnormal finding on testicular USS
+ Are you looking for surgerical treatment?
+###Patient: yes
+###Doctor: Do you meet the below criterias:
+?	The ###Patient has had symptoms for at least 2 years
+?	The ###Patient has grade 3 gynaecomastia (estimated excision volume of >100g)
+?	The is >18 years of age
+?	The ###Patient has a BMI of 18 - 25 Kg/M2
+###Patient: no
+###Doctor: ###Patients who do not meet the WHSCC criteria for gynaecomastia surgery will not be eligible for surgery via the NHS. Please advise the ###Patient of these criteria and consider referral in the future once all the criteria are met.
+Alternatively, if you feel the ###Patients symptoms warrant special consideration, despite not fitting the WHSCC criteria, please consider completing an Individual ###Patient Funding Request (IPFR) on the ###Patients behalf.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am male, and I have Nipple Problem.
+###Doctor: What nipple problem do you have?
+###Patient: Gynaecomastia
+###Doctor: Prior to referral please ensure the following blood tests have been requested as per the ABS guidelines:
+?	9am Testosterone, Thyroid Function Tests, Liver Function Tests, ?-Fetoprotein, ·-Human Chorionic Gonadotrophin
+?	If Testosterone is abnormal: Luteinizing Hormone, Follicle Stimulating Hormone, Sex Hormone Binding Gloubulin, albumin, oestradiol, prolactin
+?	Testicular Ultrasound Scan if any of the following abnormal blood results are note###Doctor: raised ·HCG, raised ?-Fetoprotein
+
+?	A direct referral to Endocrinology may then be appropriate if the ###Patient has any abnormal endocrine (hormonal) levels
+?	A direct referral to Urology may then be appropriate if there are abnormal ·HCG or ?FP blood results or abnormal finding on testicular USS
+ Are you looking for surgerical treatment?
+###Patient: no
+###Doctor: ###Patients with gynaecomastia do not typically require assessment by the breast service unless surgical treatment is being sought or there is uncertainty over the diagnosis. Consider reassuring the ###Patient. The following ###Patient information leaflet may be useful. If you feel an assessment by the breast team is still required please prioritise the referral as ROUTINE.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing some issues in my breast. ###Doctor: Okay. Can you tell me your Gender? And What issues are you facing? ###Patient: I have pain and Lump in Axilla. ###Doctor: Do you had breast cancer in the past or patient a known carrier of any of the above genetic abnormalities? ###Patient: No. ###Doctor:Do you  have any other breast symptoms? ###Patient: NO. ###Doctor: Patients with an axillary lump and no breast symptoms can be referred directly for an axillary US scan and do not require referral via the breast clinic. Please direct your request for an US through the Health Board Radiology department. Request forms can be emailed to the following address - ABB.radiologyreferrals@wales.nhs.uk.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing some issues in my breast. ###Doctor: Okay. Can you tell me your Gender? And What issues are you facing? ###Patient: I have pain and Lump in Axilla. ###Doctor: Do you had breast cancer in the past or patient a known carrier of any of these BRCA 1,BRCA 2,TP53,PTEN,MAP,STK11
+PALB2  genetic abnormalities? ###Patient: No. ###Doctor:Do you  have any other breast symptoms? ###Patient: NO. ###Doctor: Patients with an axillary lump and no breast symptoms can be referred directly for an axillary US scan and do not require referral via the breast clinic. Please direct your request for an US through the Health Board Radiology department. Request forms can be emailed to the following address - ABB.radiologyreferrals@wales.nhs.uk.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing some issues in my breast. ###Doctor: Okay. Can you tell me your Gender? And What issues are you facing? ###Patient: I have pain and Lump in Axilla. ###Doctor: Do you had breast cancer in the past or patient a known carrier of any of these BRCA 1,BRCA 2,TP53,PTEN,MAP,STK11
+PALB2   genetic abnormalities? ###Patient: yes. ###Doctor:Do you  have any other breast symptoms? ###Patient: Yes. ###Doctor: Please prioritise this referral as USC. "
+"###Patient: I am facing some issues in my breast. ###Doctor: Okay. Can you tell me your Gender? And What issues are you facing? ###Patient: I have pain and Lump in Axilla. ###Doctor: Do you had breast cancer in the past or patient a known carrier of any of the above genetic abnormalities? ###Patient: No. ###Doctor:Do you  have any other breast symptoms? ###Patient: Yes. ###Doctor: how old are you? ###Patient: 35. ###Doctor:as your age is more than 30, Please prioritise this referral as USC. "
+"###Patient: I am facing nipple issues in my breast. ###Doctor: Okay. Can you tell me your Gender? What is the nature of the nipple problem? ###Patient: Nipple Retraction / Inversion. ###Doctor: how old are you? ###Patient:45. ###Doctor:as your age is more than 40, Please prioritise this referral as USC.  "
+"###Patient: I am facing nipple issues in my breast. ###Doctor: Okay. Can you tell me your Gender? What is the nature of the nipple problem? ###Patient: Nipple Retraction / Inversion. ###Doctor: how old are you? ###Patient:38. ###Doctor:as your age is less than 40, Please prioritise this referral as URGENT. (If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing nipple issues in my breast. ###Doctor: Okay. Can you tell me your Gender? What is the nature of the nipple problem? ###Patient: female, Nipple Discharge. ###Doctor: Is the nipple discharge Blood-Stained? ###Patient: yes. ###Doctor: Please prioritise this referral as USC. "
+"###Patient: I am facing nipple issues in my breast. ###Doctor: Okay. Can you tell me your Gender? What is the nature of the nipple problem? ###Patient: female, Nipple Discharge. ###Doctor: Is the nipple discharge Blood-Stained? ###Patient: no. ###Doctor: Is the discharge unilateral or bilateral? ###Patient:Bilateral Nipple Discharge. ###Doctor: If the patient has true galactorrhea please ensure a prolactin level has been checked and refer to endocrinology if the prolactin level is high. Otherwise please prioritise this referral as ROUTINE. (If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing nipple issues in my breast. ###Doctor: Okay. Can you tell me your Gender? What is the nature of the nipple problem? ###Patient: female, Nipple Rash / Eczema. ###Doctor: Has the patient trialled a course of a topical emollient and steroid cream? ###Patient: yes. ###Doctor: Please prioritise this referral as USC. When referring, if possible, please try to include a clinical photograph of the area in question."
+"###Patient: I am facing nipple issues in my breast. ###Doctor: Okay. Can you tell me your Gender? What is the nature of the nipple problem? ###Patient: female, Nipple Rash / Eczema. ###Doctor: Has the patient trialled a course of a topical emollient and steroid cream? ###Patient: no. ###Doctor: If you feel this is a clear and obvious case of Paget's disease of the nipple then please refer the patient as USC.
+If this is not the case please consider trialling a short (2 week) course of a topical emollient and steroid cream (e.g. 1% hydrocortisonse) and review the patient again. If the treatment fails to have any effect please then also prioritise this referral as USC. When referring, if possible, please try to include a clinical photograph of the area in question.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am facing Skin Change in my breast. ###Doctor: Please prioritise this referral as USC. When referring, if possible, please try to include a clinical photograph of the area in question."
+"###Patient: I am facing issues in my breast. In my family my mother also had breast cancer. So I am worried. ###Doctor: For patients with a strong family history of breast/ovarian cancer who are requesting early screening/BRCA gene testing, please refer directly to the All Wales Medical Genetics Department at the following address:
+All Wales Medical Genomics Service
+University Hospital of Wales
+Heath Park
+Cardiff
+CF14 4XW
+The referral criteria for patients enquiring about an increased risk of breast cancer are as follows:
+ï	For patient with a personal history of breast cancer
+ï	For patients with a family history of breast cancer
+Referrals regarding patients who have already been deemed eligible for early/enhanced breast screening should be directed to Breast Test Wales via BTWSouthScreening@wales.nhs.uk, and do not need referral to the symptomatic service."
+"###Patient: I am facing issues in my breast. ###Doctor: Okay. Can you tell me your Gender? What is the problem? ###Patient: female, I am observing Breast Sepsis. ###Doctor: For patients with clinical signs of sepsis / significant cellulits / a pointing breast abscess, please arrange for the patient to be admitted via the emergency General Surgical intake at the Grange University Hospital for appropriate treatment.
+If the patient is clinically well with none of the above features please start appropriate antibiotic therapy:
+ï	Lactational Mastitis = Flucloxacillin 1g QDS for 7 days (Clarithromycin 500mg BD for 7 days if penicillin allergic)
+ï	Non-lactational Breast Sepsis = Flucloxacillin 1g QDS for 7 days (Clarithromycin 500mg BD for 7 days if penicillin allergic) + Metronidazole 400mg TDS
+
+and prioritise your referral as URGENT.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I am having pain in my breast. ###Doctor: Okay. Can you tell me your Gender? What is the problem? ###Patient: female, I am observing Breast Sepsis. ###Doctor: Patients suffering mastalgia (breast pain) alone with no other breast symptoms/signs are very unlikely to have breast cancer. For further information/evidence relating to this please use the following link.
+In this situation, prior to referral to the breast service please try a minimum of 4-6 weeks of conservative treatment. Also, please provide the patient with the appropriate information leaflet -  found here.
+If symptoms persist despite these measure and referral to the breast service is still required please prioritise the referral as ROUTINE.
+Should the patient have additional symptoms/findings in addition to breast pain, then please prioritise the referral based on the patients most concerning symptom, which can found elsewhere within this tool.
+(If you disagree with this outcome, please include additional information in the clinical details section of the referral form to explain your reasons)"
+"###Patient: I have some changes in my breast. ###Doctor: Okay. Can you tell me your Gender? What is the problem? ###Patient: female, I am getting Incidental Radiological Findings in my breast. ###Doctor: Please prioritise this referral as USC. 
+
+Incidental radiological findings from non-breast imaging will be reviewed by our in house radiology team in the first instance. If further assessment of the changes in question are required, an appropriate clinic appointment will be made for the patient. In cases where the changes in question are deemed benign/unchanged from previous imaging, and no further assessment is required, we will inform you and the patient of this by letter."

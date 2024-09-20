@@ -59,3 +59,4 @@ python app.py
 
 ### Run the finetune_model.ipynb in Colab. This file is for model fine tuning.
 ### Run the QuantizedModel.ipynb in Colab. This file is for model quantization.
+### Manual dataset dataset_ex.csv. This dataset used in fine tune the model.
